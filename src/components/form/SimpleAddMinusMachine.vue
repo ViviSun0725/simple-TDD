@@ -16,3 +16,10 @@ const plus = () => {
   counter.value++;
 };
 </script>
+<style scoped>
+  button {
+    font-size: 2em;
+    padding: 20px;
+    margin: 10px;
+  }
+</style>
